@@ -1,6 +1,6 @@
 # Contribute to LMDDI
 
-CTS values and encourages community contributions to our code and documentation. If you want to contribute to LMDDI repositories, please review the following guidance. For documentation-specific information, see the [Contributing to LMDDI documentation](#).
+CTS values and encourages community contributions to our code and documentation. If you want to contribute to LMDDI repositories, please review the following guidance. For documentation-specific information, see the [Contributing to LMDDI documentation]((https://docs.lmddi.com/en/latest/contribute/contributing.html).
 
 LMDDI is a software stack consisting of a collection of **drivers, development tools, and APIs** that enable systems programming from the low-level kernel to device drivers. Some components are inherited from external projects (such as [LLVM](https://github.com/llvm/llvm-project) and kernel drivers), which follow their own contribution guidelines and workflows. Refer to their repositories for more information. All other LMDDI components follow the workflow described below.
 
