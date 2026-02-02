@@ -10,7 +10,7 @@ LMDDI uses **GitHub** to host code, collaborate, and manage version control. All
 
 ### Issue Tracking
 
-Before filing a new issue, search the [existing issues](https://github.com/LMDDI/LMDDI/issues) to ensure it has not already been reported.
+Before filing a new issue, search the [existing issues](https://github.com/Charged-Technology-Solutions/LMDDI/issues) to ensure it has not already been reported.
 
 **General issue guidelines:**
 - Use your best judgment for issue creation. If the issue exists, upvote it and provide additional details, including reproduction steps.
