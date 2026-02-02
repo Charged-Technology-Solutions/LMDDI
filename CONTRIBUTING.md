@@ -45,7 +45,7 @@ PRs should **target the default integration branch** (typically `develop`). Foll
 13. Once approved, PRs may be merged into the component during the release cycle as coordinated by the maintainer.  
 14. You will be notified once your change is committed.  
 
-> **Important:** By submitting a PR, you agree to license your contribution under the terms of the `LICENSE.txt` file in the corresponding repository. Each LMDDI repository may use a different license. Check the [LMDDI licensing page](#) for details.
+> **Important:** By submitting a PR, you agree to license your contribution under the terms of the `LICENSE.txt` file in the corresponding repository. Each LMDDI repository may use a different license. Check the [LMDDI licensing page](https://docs.lmddi.org/documentation) for details.
 
 ### New Feature Development
 
