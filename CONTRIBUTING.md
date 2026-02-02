@@ -1,5 +1,5 @@
 Contribute to LMDDI
-CTS values and encourages contributions to our code and documentation. If you want to contribute to our LMDDI repositories, first review the following guidance. For documentation-specific information, see Contributing to LMDDI docs.
+CTS values and encourages community contributions to our code and documentation. If you want to contribute to our LMDDI repositories, first review the following guidance. For documentation-specific information, see the Contributing to LMDDI documentation.
 
 LMDDI is a software stack made up of a collection of drivers, development tools, and APIs that enable systems programming from low-level kernel to device drivers. Because some of our components are inherited from external projects (such as LLVM and Kernel driver), these use project-specific contribution guidelines and workflow. Refer to their repositories for more information. All other LMDDI components follow the workflow described in the following sections.
 
@@ -27,6 +27,8 @@ Ensure your code builds successfully
 Each component has a suite of test cases to run; include the log of the successful test run in your PR
 Do not break existing test cases
 New functionality is only merged with new unit tests
+Do not copy propietary code
+All code submitted to LMDDI must be legally safe and fully compatible with the project’s GPL license. This means that any contributions must be original work authored by the contributor or properly licensed open-source code that allows redistribution and modification under the GPL. Contributors must not submit proprietary, closed-source, or otherwise restricted code, and any third-party code used must include appropriate attribution and comply with its original license terms. Additionally, code written as part of employment or for another organization may only be submitted if the contributor has explicit permission to release it under the GPL.
 If your PR includes a new feature, you must provide an application or test so we can ensure that the feature works and continues to be valid in the future
 Tests must have good code coverage
 Submit your PR and work with the reviewer or maintainer to get your PR approved
