@@ -21,7 +21,7 @@ This repository contains source code, patches, and documentation including chang
 
 The LMDDI documentation homepage is [www.docs.lmddi.org](https://www.docs.lmddi.org).
 
-For information on how to contribute to the LMDDI, see [Contributing to LMDDI-E™](https://www.lmddi.org/contribute).
+For information on how to contribute to the LMDDI, see [Contributing to LMDDI](https://www.lmddi.org/contribute).
 
 ## Older LMDDI Releases
 
